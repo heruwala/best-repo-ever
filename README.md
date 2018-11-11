@@ -1,5 +1,5 @@
 # best-repo-ever
-changes done again for new-branch-1
+branch conflict resolved
 ## second best
-changes done for new-branch-1
+branch conflict resolved for this line
 ### third best
