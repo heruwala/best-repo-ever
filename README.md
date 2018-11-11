@@ -1,5 +1,5 @@
 # best-repo-ever
-branch 2 change to make conflict
+branch conflict resolved
 ## second best
-branch 2 line 4 change again
+branch conflict resolved for this line
 ### third best
